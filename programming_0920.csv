@@ -1,0 +1,1001 @@
+TransactionID,Date,Product,amount,place
+1,2/1/2024,Grenadillo,2,CD
+2,8/27/2024,Soup Knorr Chili With Beans,8,US
+3,6/20/2024,Wine - Guy Sage Touraine,1,BR
+4,5/1/2024,Cheese - Valancey,7,TH
+5,8/8/2024,"Pork - Tenderloin, Fresh",8,CN
+6,1/3/2024,Transfer Sheets,7,US
+7,4/1/2024,"Wine - White, Mosel Gold",6,US
+8,9/9/2023,"C - Plus, Orange",8,US
+9,7/5/2024,"Sparkling Wine - Rose, Freixenet",9,PE
+10,6/3/2024,Ecolab - Hobart Upr Prewash Arm,4,BR
+11,5/1/2024,Crush - Cream Soda,1,IN
+12,10/21/2023,Beef - Top Butt,8,YE
+13,2/15/2024,Arizona - Green Tea,9,US
+14,10/3/2023,"Crab - Dungeness, Whole, live",5,US
+15,10/5/2023,Tart - Butter Plain Squares,6,AR
+16,11/12/2023,Vinegar - Champagne,8,DE
+17,3/20/2024,Tart - Lemon,5,US
+18,7/30/2024,"Chicken - Leg, Fresh",4,US
+19,8/13/2024,Meldea Green Tea Liquor,7,US
+20,3/12/2024,Bread - Kimel Stick Poly,10,PG
+21,2/19/2024,Sun - Dried Tomatoes,8,ZM
+22,8/1/2024,Maple Syrup,6,AU
+23,2/8/2024,Veal - Striploin,7,MG
+24,8/13/2024,"Stock - Veal, Brown",10,ID
+25,5/10/2024,Cheese - Ermite Bleu,2,US
+26,1/6/2024,Wine - Redchard Merritt,1,US
+27,2/20/2024,Chocolate - Chips Compound,10,US
+28,2/12/2024,Grapefruit - Pink,6,CN
+29,9/8/2023,Red Currant Jelly,2,GB
+30,8/4/2024,Sauce - Hollandaise,4,US
+31,10/3/2023,Greens Mustard,8,TH
+32,8/9/2024,Chocolate - Mi - Amere Semi,10,AU
+33,7/9/2024,Bay Leaf Ground,9,TH
+34,4/3/2024,Filter - Coffee,6,US
+35,3/2/2024,Wine - Magnotta - Pinot Gris Sr,10,MH
+36,9/25/2023,Peas Snow,7,UA
+37,7/5/2024,Appetizer - Smoked Salmon / Dill,3,CA
+38,7/11/2024,Onion Powder,5,PG
+39,1/15/2024,Beer - Moosehead,2,BR
+40,2/26/2024,Soup - Campbells Chicken,10,US
+41,6/22/2024,"Beans - Kidney, Red Dry",7,AO
+42,5/23/2024,Wine - Coteaux Du Tricastin Ac,10,US
+43,1/19/2024,Chicken - Base,1,NP
+44,5/6/2024,Extract - Lemon,4,US
+45,7/4/2024,Bagel - Sesame Seed Presliced,6,TW
+46,7/5/2024,Veal - Kidney,8,ZA
+47,10/2/2023,Cheese - Brie Roitelet,9,IN
+48,5/14/2024,Beer - Steamwhistle,9,SR
+49,7/6/2024,Wine - Pinot Noir Latour,5,RU
+50,8/28/2024,"Mustard - Dry, Powder",1,US
+51,11/8/2023,Bar Mix - Lime,6,WS
+52,10/11/2023,Pork Casing,3,US
+53,11/13/2023,Zucchini - Green,3,RU
+54,7/25/2024,Bread - Bistro White,4,US
+55,11/26/2023,"Nut - Hazelnut, Ground, Natural",1,ET
+56,5/18/2024,Extract - Rum,6,US
+57,5/18/2024,Cheese - Brie Roitelet,6,TH
+58,7/14/2024,Silicone Parch. 16.3x24.3,3,PG
+59,11/11/2023,Mustard - Dijon,10,PG
+60,5/18/2024,Veal - Slab Bacon,5,NZ
+61,10/27/2023,Bread Base - Italian,3,VE
+62,7/13/2024,Cocoa Powder - Dutched,6,EC
+63,11/2/2023,Sardines,10,TG
+64,11/13/2023,Cake - Sheet Strawberry,1,US
+65,10/4/2023,Long Island Ice Tea,4,US
+66,7/3/2024,Olives - Nicoise,5,AO
+67,1/17/2024,Potatoes - Mini White 3 Oz,2,TR
+68,4/3/2024,Sprouts - Bean,6,US
+69,9/6/2024,Pants Custom Dry Clean,7,PK
+70,9/1/2024,Creamers - 10%,8,US
+71,8/22/2024,"Beef - Chuck, Boneless",8,DE
+72,12/20/2023,Ham Black Forest,8,MN
+73,11/7/2023,"Stock - Beef, White",4,AU
+74,10/12/2023,Bread - Sour Batard,8,US
+75,11/10/2023,Curry Paste - Madras,10,TC
+76,8/29/2024,"Cookies - Oreo, 4 Pack",7,US
+77,5/18/2024,Beer - Muskoka Cream Ale,7,TZ
+78,12/9/2023,Quinoa,4,AS
+79,1/3/2024,Yokaline,4,CA
+80,3/31/2024,Butter Balls Salted,4,US
+81,1/18/2024,Soho Lychee Liqueur,1,CO
+82,12/13/2023,Muffin - Banana Nut Individual,3,CN
+83,9/5/2024,"Flour - Bran, Red",4,UA
+84,1/5/2024,Cheese - Ermite Bleu,7,BR
+85,2/19/2024,Wine - Barolo Fontanafredda,6,PG
+86,9/8/2023,Jolt Cola,3,US
+87,5/25/2024,Danishes - Mini Raspberry,3,TL
+88,9/21/2023,Cake - Mini Cheesecake,5,SY
+89,2/18/2024,Sprite - 355 Ml,3,US
+90,6/28/2024,"Oil - Shortening,liqud, Fry",6,MH
+91,3/17/2024,Nantucket - 518ml,10,AO
+92,2/15/2024,Bay Leaf Ground,7,PG
+93,5/3/2024,Bagel - Whole White Sesame,8,BR
+94,5/1/2024,Nantucket Orange Juice,2,US
+95,3/30/2024,Persimmons,9,WS
+96,11/4/2023,Mushroom Morel Fresh,3,PG
+97,6/15/2024,Red Pepper Paste,1,TW
+98,2/26/2024,Blue Curacao - Marie Brizard,7,FI
+99,6/5/2024,Soup - Campbells Mushroom,8,US
+100,6/7/2024,Pork - Kidney,3,AU
+101,7/8/2024,Napkin Colour,4,SS
+102,2/5/2024,Cumin - Whole,8,FR
+103,7/8/2024,Cake - Mini Cheesecake,7,LS
+104,4/9/2024,"Tortillas - Flour, 8",2,PK
+105,6/19/2024,Lotus Leaves,1,HR
+106,3/25/2024,Muffins - Assorted,9,BS
+107,11/22/2023,"Hickory Smoke, Liquid",8,CN
+108,1/1/2024,Wine - Sawmill Creek Autumn,4,MX
+109,4/4/2024,"Soup - Canadian Pea, Dry Mix",8,TH
+110,4/10/2024,"Coke - Diet, 355 Ml",9,RU
+111,5/4/2024,Wine - Piper Heidsieck Brut,4,PG
+112,6/13/2024,Wine - Cousino Macul Antiguas,9,AU
+113,4/26/2024,Foil Wrap,1,PA
+114,11/3/2023,Limes,9,MM
+115,5/19/2024,Cheese - Augre Des Champs,1,VN
+116,2/28/2024,Sole - Fillet,10,DZ
+117,10/25/2023,Crab - Imitation Flakes,7,US
+118,7/25/2024,"Wine - White, Riesling, Semi - Dry",1,FJ
+119,3/20/2024,"Veal - Leg, Provimi - 50 Lb Max",3,BR
+120,7/16/2024,Paper Towel Touchless,7,US
+121,7/19/2024,Lamb - Loin Chops,6,CO
+122,5/1/2024,Scallops 60/80 Iqf,3,CF
+123,3/24/2024,"Soup - Campbells, Classic Chix",7,CN
+124,1/5/2024,Mushroom - King Eryingii,5,CA
+125,6/19/2024,Nestea - Iced Tea,4,NZ
+126,4/30/2024,Pepper Squash,1,UA
+127,1/27/2024,Pur Value,5,BO
+128,12/12/2023,Scallops - U - 10,1,BJ
+129,4/17/2024,Worcestershire Sauce,8,AU
+130,8/25/2024,Wine - Alicanca Vinho Verde,6,BR
+131,12/28/2023,Tart - Pecan Butter Squares,6,PR
+132,7/10/2024,"Yogurt - Peach, 175 Gr",10,PF
+133,6/21/2024,Soupcontfoam16oz 116con,2,US
+134,9/28/2023,Tea - Honey Green Tea,6,US
+135,5/20/2024,"Syrup - Monin, Irish Cream",3,IS
+136,6/11/2024,Pastry - Cheese Baked Scones,9,HT
+137,7/24/2024,Raspberries - Frozen,1,MN
+138,12/6/2023,Squash - Acorn,7,NZ
+139,10/15/2023,Tea Leaves - Oolong,10,TJ
+140,12/17/2023,Milk - Chocolate 250 Ml,9,JP
+141,5/6/2024,Beans - Kidney White,7,CA
+142,8/17/2024,Cheese - Comte,7,US
+143,10/26/2023,"Pepper - White, Whole",8,CR
+144,6/12/2024,"Potatoes - Yukon Gold, 80 Ct",5,DE
+145,11/17/2023,Bread - Corn Muffaleta Onion,5,US
+146,3/22/2024,Miso Paste White,3,AU
+147,9/23/2023,Longos - Cheese Tortellini,2,US
+148,10/11/2023,"Lid - 10,12,16 Oz",5,US
+149,2/2/2024,Cheese - Gouda,5,MM
+150,11/9/2023,Peas - Frozen,3,US
+151,6/1/2024,"Cup - 6oz, Foam",10,CD
+152,10/4/2023,Chocolate - Feathers,1,BF
+153,10/29/2023,"Pasta - Lasagna Noodle, Frozen",10,TW
+154,2/15/2024,Ecolab - Hobart Washarm End Cap,10,EG
+155,11/21/2023,Crackers Cheez It,7,PE
+156,10/2/2023,Oil - Sesame,5,PG
+157,4/30/2024,Cabbage Roll,8,LY
+158,8/18/2024,"Cookies - Oreo, 4 Pack",5,PK
+159,1/19/2024,Flavouring - Raspberry,3,US
+160,1/7/2024,Appetizer - Lobster Phyllo Roll,8,US
+161,1/17/2024,"Veal - Inside Round / Top, Lean",5,ZA
+162,7/3/2024,Pop - Club Soda Can,7,DE
+163,8/14/2024,Liquid Aminios Acid - Braggs,8,US
+164,9/15/2023,"Napkin - Beverge, White 2 - Ply",3,RU
+165,4/1/2024,Cheese - Swiss Sliced,9,US
+166,6/17/2024,Chips - Doritos,9,PH
+167,11/14/2023,"Chilli Paste, Sambal Oelek",1,SR
+168,9/9/2023,Onion - Dried,2,TR
+169,9/7/2023,Steampan - Half Size Shallow,7,AU
+170,4/3/2024,Bandage - Finger Cots,3,CA
+171,6/20/2024,"Beans - Black Bean, Canned",8,AU
+172,10/15/2023,Pie Shell - 5,1,OM
+173,6/12/2024,Spice - Chili Powder Mexican,9,CA
+174,8/15/2024,Wine - Two Oceans Sauvignon,4,RU
+175,11/8/2023,"Orange - Canned, Mandarin",8,AR
+176,2/27/2024,Cinnamon Rolls,2,CG
+177,12/20/2023,Magnotta - Bel Paese White,4,GH
+178,8/28/2024,Cheese - Swiss,10,MM
+179,12/23/2023,Soup - Campbells Bean Medley,2,US
+180,11/28/2023,"Nut - Chestnuts, Whole",7,PA
+181,2/19/2024,Sprouts - Bean,6,GB
+182,12/29/2023,Horseradish - Prepared,7,US
+183,5/15/2024,Wine - Cava Aria Estate Brut,6,FR
+184,7/24/2024,"Pork - Chop, Frenched",8,CI
+185,3/31/2024,Spice - Paprika,1,US
+186,5/10/2024,Extract - Rum,9,US
+187,11/24/2023,Tahini Paste,3,MV
+188,9/20/2023,Pork - Ground,1,CN
+189,9/6/2024,Crab - Meat Combo,5,PG
+190,1/17/2024,Mushroom - Crimini,1,AR
+191,5/24/2024,Shrimp - 100 / 200 Cold Water,10,SE
+192,3/25/2024,Icecream Bar - Del Monte,10,BR
+193,2/11/2024,"Chicken - Wings, Tip Off",4,BW
+194,7/25/2024,Tea - Mint,6,SA
+195,9/17/2023,Bread - French Baquette,7,US
+196,9/24/2023,"Beef - Ground, Extra Lean, Fresh",5,BQ
+197,5/23/2024,Island Oasis - Cappucino Mix,5,ID
+198,11/27/2023,"Tabasco Sauce, 2 Oz",10,MH
+199,8/31/2024,Beer - Pilsner Urquell,1,CA
+200,6/18/2024,"Shrimp - Baby, Cold Water",2,US
+201,4/26/2024,"Cookies - Oreo, 4 Pack",5,US
+202,1/9/2024,Pork - Kidney,1,DE
+203,7/11/2024,Tea - Herbal Orange Spice,5,BS
+204,1/23/2024,Sultanas,2,US
+205,12/25/2023,Bread - Bistro Sour,4,US
+206,4/29/2024,Red Currant Jelly,5,ZA
+207,8/2/2024,Bay Leaf,6,GB
+208,6/20/2024,Cake - Mini Cheesecake,3,US
+209,8/16/2024,Juice - Happy Planet,7,PG
+210,10/25/2023,Lambcasing,3,CA
+211,11/7/2023,Chicken - Bones,9,HU
+212,12/25/2023,Coffee - French Vanilla Frothy,9,VU
+213,7/31/2024,Soup - Campbells Asian Noodle,6,US
+214,10/19/2023,Radish,6,US
+215,3/23/2024,"Club Soda - Schweppes, 355 Ml",5,NA
+216,6/14/2024,Appetizer - Mushroom Tart,7,IT
+217,4/7/2024,Lettuce - Lambs Mash,2,UG
+218,11/11/2023,Oil - Margarine,8,IT
+219,10/22/2023,Sardines,5,US
+220,1/1/2024,Island Oasis - Pina Colada,7,US
+221,8/5/2024,Kolrabi,1,CU
+222,6/30/2024,Tomato Puree,5,RU
+223,9/21/2023,Beer - True North Strong Ale,9,BR
+224,11/25/2023,Container - Hngd Cll Blk 7x7x3,1,DO
+225,10/1/2023,Basil - Fresh,8,US
+226,2/13/2024,Cookie - Dough Variety,2,US
+227,8/19/2024,Jolt Cola - Red Eye,6,US
+228,4/21/2024,Cheese - Oka,10,NA
+229,12/3/2023,Nantucket Cranberry Juice,4,US
+230,8/10/2024,Petite Baguette,10,NG
+231,10/1/2023,Liqueur - Melon,2,CA
+232,10/24/2023,Chocolate - White,6,SR
+233,4/12/2024,Soup - Base Broth Beef,6,EG
+234,4/28/2024,Cabbage - Savoy,6,IN
+235,10/28/2023,Chicken - Whole Roasting,3,FJ
+236,3/30/2024,Snails - Large Canned,3,US
+237,11/13/2023,Calaloo,3,GB
+238,10/28/2023,Syrup - Monin - Granny Smith,2,BR
+239,11/21/2023,"Veal - Insides, Grains",2,US
+240,8/1/2024,Pear - Halves,4,RU
+241,9/25/2023,Lid - 0090 Clear,2,PH
+242,11/28/2023,Beer - Heinekin,10,RU
+243,6/23/2024,Buffalo - Striploin,8,DE
+244,6/20/2024,Yeast Dry - Fleischman,2,BR
+245,6/4/2024,Gelatine Leaves - Envelopes,4,KE
+246,5/3/2024,Glove - Cutting,2,PG
+247,12/24/2023,Beef - Salted,5,ID
+248,5/29/2024,Skewers - Bamboo,10,NA
+249,6/19/2024,"Doilies - 8, Paper",1,NR
+250,2/5/2024,Compound - Passion Fruit,10,US
+251,9/27/2023,Appetizer - Sausage Rolls,3,JP
+252,9/19/2023,Coffee Decaf Colombian,4,US
+253,5/22/2024,Island Oasis - Mango Daiquiri,4,PA
+254,5/19/2024,Higashimaru Usukuchi Soy,7,US
+255,10/27/2023,"Pasta - Detalini, White, Fresh",6,CI
+256,12/28/2023,Lime Cordial - Roses,2,GB
+257,12/28/2023,Cheese - Colby,4,TT
+258,9/27/2023,Lettuce - Boston Bib,9,GB
+259,5/23/2024,Energy Drink,4,CA
+260,5/19/2024,Turnip - Mini,10,IN
+261,10/19/2023,Propel Sport Drink,1,NO
+262,8/24/2024,Lychee - Canned,4,SA
+263,11/14/2023,"Capon - Breast, Double, Wing On",1,PY
+264,12/19/2023,"Pasta - Shells, Medium, Dry",5,MY
+265,3/28/2024,Magnotta Bel Paese Red,4,AU
+266,2/26/2024,Kolrabi,3,KR
+267,11/27/2023,"Turkey - Breast, Smoked",5,MM
+268,9/23/2023,Sweet Pea Sprouts,5,CA
+269,10/16/2023,Bread - White Mini Epi,7,PG
+270,1/14/2024,Eggplant - Asian,4,AU
+271,1/15/2024,Wine - Cave Springs Dry Riesling,8,NZ
+272,9/13/2023,Capers - Ox Eye Daisy,1,US
+273,8/19/2024,Snapple - Iced Tea Peach,9,US
+274,7/28/2024,Cheese - Swiss Sliced,7,AU
+275,8/20/2024,Wine - Magnotta - Belpaese,9,RU
+276,4/16/2024,"Lamb - Shoulder, Boneless",6,US
+277,5/18/2024,Wine - Fino Tio Pepe Gonzalez,4,ML
+278,11/12/2023,Steamers White,1,AT
+279,9/9/2023,Anchovy Paste - 56 G Tube,1,VN
+280,10/11/2023,Cheese - Gouda Smoked,10,SB
+281,7/12/2024,Sugar - Individual Portions,2,ID
+282,11/5/2023,Scallops - In Shell,3,RU
+283,9/28/2023,Cookies Almond Hazelnut,10,FJ
+284,10/5/2023,Pastry - Banana Muffin - Mini,4,MY
+285,6/30/2024,Coffee - Ristretto Coffee Capsule,1,PA
+286,3/13/2024,"Mushroom - Enoki, Dry",4,CA
+287,4/11/2024,Pate - Cognac,9,FI
+288,4/1/2024,Huck Towels White,6,US
+289,3/12/2024,Basil - Pesto Sauce,1,DE
+290,4/18/2024,"Veal - Brisket, Provimi,bnls",9,US
+291,11/14/2023,Beef - Inside Round,9,US
+292,4/20/2024,Beans - Soya Bean,8,GB
+293,6/19/2024,Flour - Semolina,2,JP
+294,6/23/2024,"Pasta - Rotini, Dry",7,AU
+295,9/29/2023,Cheese - Bocconcini,8,MG
+296,3/24/2024,Veal - Loin,3,US
+297,12/16/2023,Cherries - Fresh,3,AO
+298,7/10/2024,Spinach - Baby,4,US
+299,8/20/2024,"Wine - White, Antinore Orvieto",6,LS
+300,8/1/2024,"Juice - Grape, White",9,IT
+301,12/12/2023,"Lamb - Whole Head Off,nz",1,CA
+302,10/4/2023,Tea - Grapefruit Green Tea,3,VE
+303,5/17/2024,Beer - Paulaner Hefeweisse,1,BR
+304,1/3/2024,Tuna - Sushi Grade,6,PL
+305,12/31/2023,Sprouts - Onion,2,CN
+306,3/20/2024,Wine - Pinot Grigio Collavini,5,CN
+307,11/23/2023,Tomatoes - Orange,2,ID
+308,3/4/2024,Steam Pan - Half Size Deep,1,RU
+309,11/17/2023,Curry Paste - Green Masala,1,IN
+310,10/11/2023,Tomato - Peeled Italian Canned,8,CN
+311,2/24/2024,Bread Foccacia Whole,1,US
+312,6/4/2024,Plaintain,5,JP
+313,6/29/2024,Beef - Tenderloin - Aa,6,RU
+314,3/30/2024,Wine - Peller Estates Late,1,US
+315,8/26/2024,Soup - Campbells,1,SA
+316,5/12/2024,Eel - Smoked,3,US
+317,2/11/2024,Lobster - Live,3,KE
+318,12/4/2023,Juice - Happy Planet,3,NG
+319,2/17/2024,Beer - Mcauslan Apricot,1,AU
+320,10/29/2023,Edible Flower - Mixed,8,AT
+321,2/20/2024,"7up Diet, 355 Ml",1,CU
+322,3/10/2024,Tuna - Sushi Grade,2,ID
+323,8/3/2024,Flour - Fast / Rapid,2,US
+324,11/11/2023,Tea - Decaf 1 Cup,9,PT
+325,1/23/2024,Garam Marsala,3,CO
+326,5/10/2024,Neckerchief Blck,4,US
+327,3/20/2024,"Fish - Artic Char, Cold Smoked",8,PG
+328,4/21/2024,Beer - Corona,7,US
+329,7/16/2024,"Napkin - Beverge, White 2 - Ply",3,IN
+330,10/30/2023,Cheese - Augre Des Champs,2,CN
+331,9/20/2023,Mayonnaise - Individual Pkg,4,CA
+332,10/24/2023,"Pork - Sausage, Medium",1,US
+333,1/24/2024,Bread - Calabrese Baguette,9,GT
+334,10/8/2023,"Jam - Blackberry, 20 Ml Jar",4,US
+335,7/27/2024,"Coffee - Colombian, Portioned",6,AR
+336,8/21/2024,Straws - Cocktale,9,US
+337,10/30/2023,Wine - Fat Bastard Merlot,4,ZM
+338,8/17/2024,Chives - Fresh,8,CN
+339,7/31/2024,"Salmon - Atlantic, No Skin",6,BR
+340,4/25/2024,Lemonade - Pineapple Passion,7,KI
+341,8/6/2024,Ecolab - Solid Fusion,10,ZA
+342,9/20/2023,"Flour - Bran, Red",2,DE
+343,6/13/2024,"Tabasco Sauce, 2 Oz",4,US
+344,9/30/2023,Nougat - Paste / Cream,4,ZA
+345,3/31/2024,Bread - Focaccia Quarter,10,US
+346,9/28/2023,"Tortillas - Flour, 12",9,US
+347,6/3/2024,"Salsify, Organic",4,US
+348,11/30/2023,Parsley - Dried,4,US
+349,1/31/2024,Table Cloth 62x114 White,4,BZ
+350,3/5/2024,Oyster - In Shell,10,IT
+351,8/29/2024,Spice - Chili Powder Mexican,6,CA
+352,2/27/2024,"Champagne - Brights, Dry",10,CO
+353,10/17/2023,Sansho Powder,10,HN
+354,6/23/2024,Ecolab - Hobart Washarm End Cap,1,US
+355,7/7/2024,Longos - Burritos,6,DZ
+356,4/9/2024,"Jam - Marmalade, Orange",3,US
+357,12/12/2023,Vaccum Bag - 14x20,8,PG
+358,4/8/2024,Soup - Campbells Beef Stew,3,ZA
+359,8/28/2024,Lamb - Sausage Casings,1,NA
+360,11/23/2023,"Roe - Lump Fish, Black",10,CN
+361,5/14/2024,Persimmons,9,RO
+362,1/23/2024,Wine - Chateau Timberlay,8,PG
+363,10/28/2023,Glass - Juice Clear 5oz 55005,3,BF
+364,5/10/2024,"Pasta - Shells, Medium, Dry",1,CA
+365,12/21/2023,"Quail - Eggs, Fresh",9,US
+366,8/6/2024,Soup - Campbells Beef Noodle,2,PL
+367,8/20/2024,"Extract - Vanilla,artificial",2,IR
+368,5/3/2024,Almonds Ground Blanched,5,US
+369,4/20/2024,Sauce - Rosee,3,HN
+370,7/5/2024,"Melon - Watermelon, Seedless",8,IS
+371,5/20/2024,Beef Wellington,8,AU
+372,8/29/2024,Appetizer - Cheese Bites,2,US
+373,11/22/2023,Relish,6,AU
+374,12/23/2023,Appetizer - Sausage Rolls,9,BR
+375,11/27/2023,Wine - Pinot Noir Stoneleigh,3,US
+376,3/4/2024,Chicken - Whole Roasting,5,US
+377,10/15/2023,Lamb Rack - Ontario,4,IN
+378,2/15/2024,Squash - Pepper,7,GB
+379,6/16/2024,Pepperoni Slices,8,PG
+380,6/17/2024,Horseradish - Prepared,7,MA
+381,4/19/2024,Cheese - Oka,5,CU
+382,7/16/2024,Wine - Chenin Blanc K.w.v.,10,GB
+383,9/2/2024,Cup - 4oz Translucent,1,RU
+384,10/22/2023,"Olives - Black, Pitted",10,US
+385,10/1/2023,Puff Pastry - Slab,9,US
+386,5/18/2024,"Veal - Brisket, Provimi, Bone - In",4,MR
+387,7/18/2024,Melon - Cantaloupe,2,AF
+388,10/14/2023,Beef - Rib Eye Aaa,2,MX
+389,11/2/2023,"Wine - Red, Metus Rose",10,AR
+390,3/5/2024,"Split Peas - Yellow, Dry",8,CA
+391,1/6/2024,Beef - Kobe Striploin,2,PG
+392,9/14/2023,Muffin Batt - Choc Chk,3,MG
+393,3/21/2024,Lamb - Shoulder,6,US
+394,11/6/2023,Chinese Foods - Cantonese,3,BR
+395,10/26/2023,Eggplant - Regular,1,TD
+396,8/2/2024,Chocolate - Semi Sweet,4,MX
+397,2/13/2024,"Water - Mineral, Natural",2,ID
+398,10/6/2023,Sobe - Orange Carrot,2,GT
+399,11/8/2023,Chocolate - Mi - Amere Semi,4,CO
+400,10/3/2023,Napkin White,1,GR
+401,5/28/2024,Onions - Vidalia,2,US
+402,5/27/2024,Compound - Passion Fruit,4,IN
+403,12/6/2023,Whmis - Spray Bottle Trigger,7,JP
+404,8/3/2024,Cranberries - Dry,3,RU
+405,5/10/2024,Yeast Dry - Fleischman,1,US
+406,5/15/2024,"Pasta - Elbows, Macaroni, Dry",8,GT
+407,1/30/2024,"Octopus - Baby, Cleaned",5,BR
+408,5/9/2024,Soup - Campbells Chicken,3,AU
+409,7/27/2024,"Chocolate - Milk, Callets",3,US
+410,8/25/2024,"Chicken - Wings, Tip Off",6,UZ
+411,6/2/2024,"Wine - White, Riesling, Henry Of",1,US
+412,10/31/2023,Squid - U 5,5,RU
+413,2/14/2024,"Crush - Orange, 355ml",2,TH
+414,12/30/2023,Onions - Vidalia,2,US
+415,1/3/2024,Broom Handle,1,ZM
+416,8/3/2024,"Soup - Campbells, Spinach Crm",3,US
+417,8/9/2024,Walkers Special Old Whiskey,3,TH
+418,4/9/2024,Lemon Pepper,5,CA
+419,5/28/2024,"Artichoke - Hearts, Canned",2,NP
+420,11/8/2023,"Liqueur Banana, Ramazzotti",7,BR
+421,9/20/2023,"Beans - Fava, Canned",9,CA
+422,5/14/2024,Samosa - Veg,3,EG
+423,5/8/2024,Wine - Blue Nun Qualitatswein,5,PG
+424,6/17/2024,Wine - Prem Select Charddonany,6,RU
+425,6/12/2024,Muffin Hinge - 211n,3,US
+426,5/30/2024,Wine - Toasted Head,2,CM
+427,9/26/2023,Soy Protein,2,MT
+428,5/30/2024,"Soup - Campbells, Beef Barley",9,GB
+429,7/5/2024,Ostrich - Prime Cut,2,CA
+430,3/24/2024,Coffee Cup 12oz 5342cd,7,BZ
+431,10/6/2023,"Wine - Magnotta, White",10,PG
+432,5/15/2024,Foil - Round Foil,7,US
+433,11/13/2023,Wine - Muscadet Sur Lie,6,US
+434,1/12/2024,Rabbit - Whole,7,PG
+435,2/14/2024,Wine - Tio Pepe Sherry Fino,1,PG
+436,10/2/2023,Chinese Foods - Pepper Beef,6,PK
+437,2/23/2024,Kahlua,2,SE
+438,4/17/2024,Muffin Hinge - 211n,6,US
+439,12/13/2023,Tart - Pecan Butter Squares,4,CN
+440,7/13/2024,"Juice - Clam, 46 Oz",10,IN
+441,7/30/2024,"Mushroom - Shitake, Dry",3,MR
+442,6/12/2024,Beer - Fruli,6,US
+443,4/7/2024,The Pop Shoppe - Cream Soda,10,US
+444,1/2/2024,Basil - Pesto Sauce,9,MY
+445,4/29/2024,Shallots,8,MY
+446,2/29/2024,Shrimp - 150 - 250,9,US
+447,4/9/2024,Wine - Rioja Campo Viejo,10,AU
+448,7/22/2024,Pastry - Chocolate Marble Tea,7,PT
+449,4/9/2024,Squid - U - 10 Thailand,4,RU
+450,1/20/2024,Straw - Regular,1,AU
+451,2/10/2024,Ice Cream - Chocolate,8,AR
+452,3/23/2024,Table Cloth 91x91 Colour,9,CN
+453,7/23/2024,Crawfish,4,SE
+454,7/29/2024,"Juice - Orange, 341 Ml",3,MR
+455,5/10/2024,Cornflakes,7,IN
+456,8/19/2024,Cherries - Fresh,10,CA
+457,6/7/2024,Clams - Canned,7,GN
+458,2/22/2024,Salmon - Sockeye Raw,3,RU
+459,3/27/2024,"Cheese - Brie, Triple Creme",2,NO
+460,4/27/2024,Country Roll,3,US
+461,1/22/2024,Oil - Macadamia,5,MR
+462,11/17/2023,Bar Mix - Lime,7,US
+463,7/24/2024,Steam Pan Full Lid,9,CA
+464,3/1/2024,Artichoke - Fresh,7,AE
+465,12/5/2023,Icecream - Dstk Super Cone,4,LS
+466,12/26/2023,Onion Powder,7,BR
+467,10/9/2023,Jagermeister,3,US
+468,7/31/2024,Towel Multifold,4,BG
+469,7/30/2024,"Ranchero - Primerba, Paste",8,AU
+470,3/7/2024,Cheese - Brie Roitelet,5,US
+471,10/9/2023,French Kiss Vanilla,6,US
+472,5/11/2024,Cocoa Powder - Dutched,2,US
+473,4/7/2024,"Pasta - Canelloni, Single Serve",9,PG
+474,12/2/2023,Sole - Fillet,5,US
+475,5/5/2024,Pastry - Carrot Muffin - Mini,6,ID
+476,12/7/2023,"Pasta - Cannelloni, Sheets, Fresh",1,SE
+477,3/8/2024,Veal - Striploin,4,PG
+478,6/17/2024,Ecolab - Hobart Washarm End Cap,9,US
+479,6/25/2024,Cookie Dough - Double,10,US
+480,8/7/2024,Maple Syrup,1,GQ
+481,4/1/2024,Wine - Duboeuf Beaujolais,1,GB
+482,8/6/2024,"Soup - Campbells, Spinach Crm",6,US
+483,3/17/2024,"Star Anise, Whole",8,FR
+484,9/2/2024,"Bread - Rolls, Corn",1,US
+485,1/29/2024,Pepper - Chili Powder,6,FR
+486,7/29/2024,Table Cloth 62x120 White,3,RU
+487,5/26/2024,"Wine - Red, Concha Y Toro",4,AU
+488,12/20/2023,Bread Base - Toscano,5,US
+489,4/22/2024,Trueblue - Blueberry 12x473ml,3,BR
+490,3/29/2024,Stock - Fish,8,RU
+491,2/1/2024,Compound - Mocha,4,MX
+492,7/23/2024,Appetiser - Bought,7,US
+493,5/23/2024,Danishes - Mini Raspberry,5,BF
+494,4/7/2024,Pop - Club Soda Can,10,SN
+495,4/15/2024,Soup V8 Roasted Red Pepper,1,US
+496,10/5/2023,Flour - Bread,10,AU
+497,9/27/2023,Dip - Tapenade,1,DE
+498,6/1/2024,Longos - Chicken Cordon Bleu,3,TW
+499,12/27/2023,"Crab - Claws, Snow 16 - 24",3,BW
+500,10/6/2023,Canada Dry,1,PG
+501,4/8/2024,Wine - Jafflin Bourgongone,10,CA
+502,4/26/2024,Crab Meat Claw Pasteurise,3,US
+503,1/31/2024,Muffin - Carrot Individual Wrap,7,MM
+504,4/30/2024,Amaretto,3,US
+505,10/21/2023,Pop Shoppe Cream Soda,6,CU
+506,9/26/2023,Otomegusa Dashi Konbu,8,RU
+507,5/21/2024,Extract - Raspberry,6,PE
+508,5/24/2024,Pork - European Side Bacon,3,US
+509,8/14/2024,Sauce - Rosee,1,ID
+510,12/17/2023,Cookie Trail Mix,3,PG
+511,6/12/2024,Apple - Custard,5,US
+512,6/2/2024,Paper Towel Touchless,2,BS
+513,11/10/2023,"Red Snapper - Fillet, Skin On",1,US
+514,12/16/2023,Vanilla Beans,10,RU
+515,5/12/2024,Milkettes - 2%,6,US
+516,8/16/2024,Devonshire Cream,10,BR
+517,8/22/2024,Pastry - Carrot Muffin - Mini,9,KZ
+518,4/20/2024,"Turnip - White, Organic",9,TD
+519,5/4/2024,Wine - Port Late Bottled Vintage,8,US
+520,4/7/2024,"Nut - Almond, Blanched, Sliced",7,BS
+521,4/13/2024,Pail For Lid 1537,3,US
+522,2/15/2024,Sour Puss - Tangerine,10,CI
+523,6/27/2024,Lotus Leaves,6,US
+524,12/21/2023,Bread - Triangle White,7,IN
+525,2/26/2024,Pork - Inside,7,US
+526,8/28/2024,"Trout - Rainbow, Fresh",3,CA
+527,2/15/2024,"Rum - Dark, Bacardi, Black",2,ZA
+528,2/25/2024,Jack Daniels,4,GB
+529,4/2/2024,Spaghetti Squash,9,RU
+530,11/10/2023,"Fish - Soup Base, Bouillon",4,SK
+531,8/22/2024,Truffle - Peelings,2,RU
+532,5/4/2024,"Veal - Inside Round / Top, Lean",9,CA
+533,8/7/2024,Pears - Bosc,3,AU
+534,3/30/2024,Quiche Assorted,5,DE
+535,5/29/2024,Nantucket - Orange Mango Cktl,10,MX
+536,4/13/2024,Wakami Seaweed,5,CO
+537,11/23/2023,"Bread - Pullman, Sliced",1,US
+538,6/23/2024,Boogies,9,CO
+539,2/1/2024,Sugar - Icing,9,CA
+540,2/17/2024,"Nut - Almond, Blanched, Whole",5,GB
+541,12/6/2023,"Wine - Red, Pinot Noir, Chateau",9,IN
+542,5/9/2024,Beer - Labatt Blue,6,MZ
+543,11/30/2023,Rosemary - Dry,10,SK
+544,7/12/2024,"Wine - Magnotta, White",2,RU
+545,11/10/2023,"Split Peas - Green, Dry",3,GN
+546,9/4/2024,Dill Weed - Fresh,7,KR
+547,6/29/2024,Wine - Marlbourough Sauv Blanc,6,ZA
+548,3/20/2024,Pie Pecan,4,US
+549,5/12/2024,Samosa - Veg,1,FR
+550,3/25/2024,Bread - Petit Baguette,9,PF
+551,8/13/2024,Beef - Shank,7,ET
+552,10/14/2023,Cake Slab,5,NP
+553,9/27/2023,Wine - Crozes Hermitage E.,1,KP
+554,4/7/2024,Huck White Towels,7,US
+555,1/8/2024,"Bread - Rolls, Rye",5,BR
+556,8/3/2024,"Cheese - Havarti, Roasted Garlic",8,CN
+557,7/23/2024,Quinoa,7,CK
+558,2/17/2024,Bread - Wheat Baguette,4,CF
+559,12/22/2023,Straws - Cocktale,7,CA
+560,5/27/2024,Spice - Peppercorn Melange,10,MK
+561,11/4/2023,"Apple - Delicious, Golden",10,US
+562,7/19/2024,Fuji Apples,8,CO
+563,1/9/2024,Couscous,7,TG
+564,3/18/2024,Wine - Pinot Noir Pond Haddock,10,US
+565,12/18/2023,Bar Nature Valley,7,MZ
+566,4/16/2024,Puree - Kiwi,4,US
+567,11/30/2023,Cattail Hearts,6,IR
+568,5/12/2024,"Water - Mineral, Carbonated",7,JP
+569,1/24/2024,Thermometer Digital,6,AU
+570,7/19/2024,Spinach - Baby,10,ZA
+571,10/28/2023,Table Cloth 81x81 White,3,SB
+572,2/25/2024,"Fish - Base, Bouillion",10,SR
+573,1/28/2024,Cornish Hen,7,US
+574,7/22/2024,"Pasta - Gnocchi, Potato",10,IN
+575,11/26/2023,"Pork - Chop, Frenched",2,ZA
+576,8/23/2024,Shrimp - Black Tiger 13/15,2,BR
+577,3/17/2024,Alize Gold Passion,7,ID
+578,6/9/2024,Sauce - Hp,1,MY
+579,9/18/2023,Jolt Cola,1,AF
+580,12/30/2023,Artichoke - Fresh,1,SO
+581,11/21/2023,"Wine - White, Pelee Island",5,US
+582,6/18/2024,Glove - Cutting,5,KR
+583,6/4/2024,"Juice - V8, Tomato",8,CN
+584,6/11/2024,Papayas,9,PH
+585,9/5/2024,Wine - Jackson Triggs Okonagan,9,GB
+586,8/10/2024,Guava,9,PR
+587,1/24/2024,Kellogs Special K Cereal,9,ID
+588,10/4/2023,Coffee - Irish Cream,9,GB
+589,6/24/2024,Jam - Raspberry,5,PG
+590,2/16/2024,Cloves - Ground,5,AU
+591,8/18/2024,Coffee - Almond Amaretto,5,RO
+592,6/27/2024,Bread Fig And Almond,3,FK
+593,6/27/2024,Paper Cocktail Umberlla 80 - 180,3,HR
+594,11/6/2023,Figs,3,MX
+595,9/4/2024,"Wine - Saint - Bris 2002, Sauv",2,ES
+596,6/17/2024,Beets - Mini Golden,5,US
+597,12/14/2023,Food Colouring - Blue,10,US
+598,4/14/2024,"Water - Mineral, Carbonated",9,US
+599,7/11/2024,Cheese - Stilton,6,BR
+600,2/15/2024,Beer - Upper Canada Light,4,BR
+601,6/29/2024,Hold Up Tool Storage Rack,2,RU
+602,5/24/2024,"Gingerale - Schweppes, 355 Ml",8,CA
+603,6/17/2024,Chervil - Fresh,3,BO
+604,3/23/2024,Honey - Lavender,9,PG
+605,6/26/2024,Samosa - Veg,7,AU
+606,8/30/2024,Oil - Grapeseed Oil,2,RU
+607,5/24/2024,Flour - So Mix Cake White,9,DZ
+608,5/23/2024,Sugar - Cubes,1,PF
+609,10/26/2023,Bandage - Flexible Neon,3,BR
+610,2/10/2024,The Pop Shoppe - Root Beer,6,ID
+611,6/25/2024,External Supplier,3,GB
+612,10/27/2023,Carbonated Water - Cherry,4,AU
+613,2/2/2024,Dc - Sakura Fu,1,LS
+614,3/20/2024,Carrots - Mini Red Organic,2,JP
+615,4/4/2024,Liquid Aminios Acid - Braggs,6,CO
+616,8/20/2024,Onions Granulated,4,LR
+617,2/5/2024,Wine - Guy Sage Touraine,1,CA
+618,2/27/2024,Pork - Belly Fresh,2,IR
+619,12/24/2023,"Wine - Red, Cooking",10,LA
+620,8/16/2024,Corn - On The Cob,6,US
+621,10/7/2023,Water - Green Tea Refresher,3,BR
+622,9/4/2024,"Vermacelli - Sprinkles, Assorted",10,CL
+623,6/8/2024,Aspic - Clear,4,GY
+624,1/5/2024,Lady Fingers,8,AR
+625,12/23/2023,Figs,8,US
+626,1/13/2024,Soup - Campbells Asian Noodle,6,CD
+627,9/12/2023,Bandage - Finger Cots,7,US
+628,2/23/2024,Beets - Pickled,10,ZA
+629,12/13/2023,"Pasta - Lasagna, Dry",2,PG
+630,3/31/2024,Peach - Fresh,7,CN
+631,7/22/2024,Tomatoes - Grape,4,US
+632,9/9/2023,Pastry - Key Limepoppy Seed Tea,3,GA
+633,4/10/2024,Onion Powder,1,IS
+634,3/11/2024,"Chicken - Leg, Fresh",2,US
+635,2/15/2024,Beans - Fine,8,US
+636,1/11/2024,Sea Bass - Whole,5,NZ
+637,10/11/2023,Orange Roughy 4/6 Oz,9,BR
+638,5/11/2024,Squid - U - 10 Thailand,7,TL
+639,8/15/2024,Sauce - Fish 25 Ozf Bottle,7,US
+640,2/28/2024,"Crab - Blue, Frozen",2,CA
+641,10/28/2023,Arctic Char - Fillets,5,US
+642,4/24/2024,Beer - Sleemans Honey Brown,7,MH
+643,7/25/2024,Pork - Back Ribs,4,PG
+644,5/11/2024,Wine - Chateauneuf Du Pape,2,CM
+645,5/30/2024,Beer - Upper Canada Light,4,US
+646,12/9/2023,"Stock - Beef, Brown",3,AU
+647,4/12/2024,Durian Fruit,10,DE
+648,9/20/2023,Squid - U 5,1,DE
+649,6/19/2024,Sauce - Balsamic Viniagrette,5,US
+650,8/31/2024,Mustard - Dijon,2,BR
+651,1/3/2024,Soap - Mr.clean Floor Soap,3,CD
+652,12/17/2023,Chocolate - White,4,US
+653,7/2/2024,"Potatoes - Instant, Mashed",10,US
+654,6/21/2024,Dasheen,7,TH
+655,6/25/2024,"Chilli Paste, Sambal Oelek",8,ET
+656,8/2/2024,"Artichokes - Knobless, White",2,GL
+657,1/29/2024,Nantucket Cranberry Juice,3,SA
+658,2/17/2024,Beans - Soya Bean,10,GB
+659,2/1/2024,Garlic Powder,1,IR
+660,12/22/2023,Ice Cream - Life Savers,4,US
+661,2/17/2024,Jameson Irish Whiskey,1,FI
+662,5/20/2024,Lamb - Loin Chops,3,PE
+663,12/26/2023,Laundry - Bag Cloth,9,MX
+664,4/3/2024,Turkey Tenderloin Frozen,6,IR
+665,6/26/2024,Wine - Sicilia Igt Nero Avola,5,KZ
+666,7/23/2024,Table Cloth 62x120 Colour,3,TR
+667,3/21/2024,Appetizer - Veg Assortment,7,GW
+668,5/1/2024,Mayonnaise,3,CA
+669,10/4/2023,Cake - Sheet Strawberry,7,AU
+670,11/11/2023,"Fish - Halibut, Cold Smoked",9,RU
+671,3/18/2024,Beer - True North Strong Ale,8,CA
+672,1/30/2024,Bread Bowl Plain,4,TW
+673,6/22/2024,"Sauce - Bernaise, Mix",6,CA
+674,4/14/2024,Cabbage - Red,9,US
+675,11/30/2023,Wiberg Cure,10,SE
+676,11/16/2023,Nantucket - Kiwi Berry Cktl.,5,AU
+677,4/28/2024,Table Cloth 62x114 Colour,6,CH
+678,2/6/2024,Strawberries,7,GY
+679,6/28/2024,Foil - Round Foil,2,ID
+680,12/3/2023,"Pasta - Gnocchi, Potato",5,RU
+681,12/23/2023,"Pepper - Paprika, Hungarian",3,US
+682,11/10/2023,Flax Seed,9,US
+683,12/30/2023,Compound - Raspberry,9,PG
+684,5/6/2024,Cleaner - Lime Away,8,MY
+685,1/14/2024,Beef - Kobe Striploin,5,BR
+686,1/10/2024,Bagel - Whole White Sesame,4,US
+687,11/9/2023,Nantucket - 518ml,5,PG
+688,11/23/2023,Cup - Translucent 7 Oz Clear,1,US
+689,2/10/2024,"Tortillas - Flour, 8",5,GL
+690,4/30/2024,English Muffin,7,CA
+691,3/10/2024,Zucchini - Yellow,8,LS
+692,8/20/2024,Lettuce - Lambs Mash,6,DK
+693,11/26/2023,Hummus - Spread,10,KZ
+694,1/15/2024,Pan Grease,10,US
+695,2/16/2024,"Onions - Dried, Chopped",1,GE
+696,1/1/2024,Gatorade - Cool Blue Raspberry,7,PG
+697,11/7/2023,"Cod - Salted, Boneless",3,CN
+698,8/9/2024,Marjoram - Fresh,3,GL
+699,2/15/2024,Butter - Salted,7,CN
+700,12/4/2023,Oil - Coconut,5,CA
+701,4/13/2024,Coffee - Decafenated,1,US
+702,2/23/2024,Oil - Peanut,10,US
+703,11/16/2023,Duck - Fat,2,IN
+704,9/6/2024,Baking Soda,5,SA
+705,9/2/2024,Broccoli - Fresh,9,CA
+706,7/4/2024,"Shrimp, Dried, Small / Lb",4,AU
+707,3/26/2024,Bagel - Ched Chs Presliced,4,CA
+708,7/19/2024,Carbonated Water - Blackberry,3,PG
+709,8/5/2024,Sugar Thermometer,8,US
+710,12/22/2023,"Soup - Campbells, Classic Chix",2,CN
+711,4/5/2024,"Wine - White, Cooking",8,MN
+712,12/2/2023,Soup Campbells Split Pea And Ham,5,CO
+713,4/1/2024,Onions - Green,9,NP
+714,9/28/2023,"Soup - Cream Of Broccoli, Dry",9,SO
+715,10/1/2023,Sugar - Icing,1,US
+716,5/5/2024,Bread - Bistro Sour,3,CA
+717,9/20/2023,Mustard - Dijon,1,US
+718,3/1/2024,Wine - Cava Aria Estate Brut,7,BR
+719,10/20/2023,Grouper - Fresh,10,MX
+720,8/30/2024,"Cheese - Cheddar, Medium",5,GP
+721,5/6/2024,Mushroom - Morel Frozen,2,ZA
+722,11/13/2023,Spinach - Spinach Leaf,6,CN
+723,12/21/2023,Cheese - Ermite Bleu,6,ZA
+724,5/16/2024,Petit Baguette,9,US
+725,8/7/2024,Wine - Vovray Sec Domaine Huet,2,BR
+726,1/8/2024,"Trout - Rainbow, Frozen",8,MX
+727,2/13/2024,Wine - Pinot Noir Stoneleigh,10,BR
+728,3/8/2024,Coriander - Seed,3,US
+729,3/26/2024,"Juice - Apple, 341 Ml",1,ID
+730,3/8/2024,Mackerel Whole Fresh,2,AU
+731,5/17/2024,Higashimaru Usukuchi Soy,8,IN
+732,8/25/2024,Pepper - Chilli Seeds Mild,6,AU
+733,2/20/2024,Parsley - Fresh,7,CL
+734,4/7/2024,Cod - Black Whole Fillet,10,NZ
+735,9/9/2023,Appetizer - Asian Shrimp Roll,10,US
+736,2/27/2024,Cake - Mini Potato Pancake,9,MX
+737,2/20/2024,Compound - Orange,9,AF
+738,5/9/2024,Container Clear 8 Oz,7,BR
+739,8/28/2024,Beef - Tender Tips,9,PG
+740,4/3/2024,Marzipan 50/50,4,ES
+741,9/23/2023,Bread Bowl Plain,1,BR
+742,5/6/2024,Wine - Beringer Founders Estate,4,US
+743,1/26/2024,Five Alive Citrus,4,CK
+744,4/18/2024,"Juice - Apple, 500 Ml",4,CA
+745,8/15/2024,"Shrimp - 16/20, Peeled Deviened",8,US
+746,11/15/2023,"Leeks - Baby, White",3,US
+747,7/5/2024,"Potatoes - Purple, Organic",10,MM
+748,10/16/2023,Chef Hat 20cm,7,US
+749,5/6/2024,"Wine - White, Concha Y Toro",7,IN
+750,11/20/2023,"Juice - Clamato, 341 Ml",1,BR
+751,5/28/2024,"Seedlings - Buckwheat, Organic",6,BR
+752,7/20/2024,Barley - Pearl,5,CN
+753,9/20/2023,Kellogs Special K Cereal,7,IT
+754,4/21/2024,"Onions - Dried, Chopped",6,BR
+755,3/31/2024,Schnappes Peppermint - Walker,8,RO
+756,12/15/2023,"Soup - Knorr, Ministrone",9,US
+757,1/11/2024,Pastry - Butterscotch Baked,10,NZ
+758,7/18/2024,"Water - Mineral, Natural",9,PH
+759,5/5/2024,Tomatoes,2,CN
+760,4/21/2024,Coffee - Dark Roast,4,MZ
+761,4/4/2024,Mustard Prepared,5,JP
+762,9/9/2023,Catfish - Fillets,10,SE
+763,11/20/2023,"Asparagus - Green, Fresh",2,PG
+764,3/1/2024,"Wine - White, Ej Gallo",3,RU
+765,4/9/2024,"Beef - Bones, Marrow",8,AO
+766,2/18/2024,Rabbit - Frozen,3,AU
+767,12/18/2023,Pumpkin - Seed,6,CM
+768,8/20/2024,Cheese - Parmesan Grated,8,US
+769,2/18/2024,Sping Loaded Cup Dispenser,6,FR
+770,5/2/2024,Smoked Paprika,9,FR
+771,11/2/2023,"Doilies - 10, Paper",3,VE
+772,3/4/2024,Tequila Rose Cream Liquor,7,FR
+773,9/27/2023,Cheese - Stilton,9,AU
+774,2/7/2024,Cheese - Oka,10,VC
+775,4/24/2024,Potatoes - Mini Red,3,ZA
+776,6/21/2024,Bagel - 12 Grain Preslice,6,IN
+777,3/7/2024,"Pepper - Julienne, Frozen",5,US
+778,4/27/2024,Jagermeister,1,US
+779,7/9/2024,Melon - Cantaloupe,4,GB
+780,6/23/2024,Mix - Cappucino Cocktail,10,US
+781,11/10/2023,Beans - Green,1,US
+782,1/26/2024,Garlic Powder,2,MV
+783,9/12/2023,Apron,9,ES
+784,10/5/2023,Soup - Boston Clam Chowder,7,CO
+785,8/27/2024,"Tomatoes - Cherry, Yellow",3,DE
+786,8/7/2024,Crackers - Trio,8,US
+787,8/20/2024,Rabbit - Whole,1,BR
+788,4/15/2024,Tuna - Salad Premix,2,CO
+789,12/22/2023,Wine - Merlot Vina Carmen,10,CD
+790,1/21/2024,Cheese Cloth No 100,1,KZ
+791,6/27/2024,Lamb - Loin Chops,9,CA
+792,12/27/2023,"Mushroom - Enoki, Dry",4,KR
+793,10/16/2023,Wine - Jackson Triggs Okonagan,3,LS
+794,8/6/2024,Oranges,10,CA
+795,1/22/2024,Spice - Chili Powder Mexican,9,RU
+796,1/21/2024,Soup - Tomato Mush. Florentine,10,AF
+797,6/12/2024,Peas Snow,4,RU
+798,5/9/2024,"Bread - Bagels, Mini",4,NP
+799,8/10/2024,Sauce - Balsamic Viniagrette,7,US
+800,9/21/2023,Cheese - Ermite Bleu,6,IN
+801,12/2/2023,Island Oasis - Sweet And Sour Mix,4,US
+802,10/28/2023,Wonton Wrappers,7,TR
+803,3/2/2024,Cheese - Le Cheve Noir,7,TH
+804,6/1/2024,Pan Grease,9,US
+805,1/12/2024,Mini - Vol Au Vents,3,DZ
+806,8/17/2024,Wine - Prosecco Valdobiaddene,8,US
+807,12/6/2023,Onions - Red Pearl,2,US
+808,1/7/2024,Sauce - Rosee,7,RO
+809,10/22/2023,Beer - Heinekin,8,GU
+810,8/13/2024,Chicken - Whole,3,EG
+811,2/9/2024,Glycerine,8,CL
+812,5/20/2024,Lotus Rootlets - Canned,5,JP
+813,4/12/2024,Soup - Campbellschix Stew,8,US
+814,3/2/2024,Calaloo,1,US
+815,7/6/2024,"Brocolinni - Gaylan, Chinese",4,AO
+816,6/2/2024,Appetizer - Veg Assortment,5,BR
+817,2/16/2024,"Soup - Campbells, Lentil",4,CO
+818,5/9/2024,Slt - Individual Portions,2,TH
+819,3/19/2024,Pail With Metal Handle 16l White,6,US
+820,9/18/2023,Paper Towel Touchless,8,US
+821,10/29/2023,"Chestnuts - Whole,canned",6,GL
+822,2/15/2024,Plasticforkblack,10,US
+823,4/28/2024,Bar Mix - Lemon,6,TR
+824,3/27/2024,Corn Syrup,3,ZW
+825,6/27/2024,Avocado,6,NP
+826,7/23/2024,Appetizer - Sausage Rolls,8,AR
+827,6/11/2024,Jam - Apricot,10,DK
+828,1/1/2024,Muffin - Zero Transfat,7,US
+829,4/3/2024,Pepper - Cubanelle,1,NO
+830,10/1/2023,Soap - Mr.clean Floor Soap,5,GL
+831,4/12/2024,Wine - Rhine Riesling Wolf Blass,7,RU
+832,6/6/2024,Halibut - Steaks,8,CN
+833,6/10/2024,"Ham - Smoked, Bone - In",8,SN
+834,5/23/2024,"Veal - Brisket, Provimi, Bone - In",2,MT
+835,7/11/2024,Table Cloth 91x91 Colour,1,ZA
+836,9/26/2023,Bread - Dark Rye,7,LR
+837,4/28/2024,Veal - Kidney,2,MY
+838,9/30/2023,Vinegar - White,8,PF
+839,1/26/2024,"Soup - French Onion, Dry",3,LK
+840,9/12/2023,Scrubbie - Scotchbrite Hand Pad,2,FR
+841,9/10/2023,Cream Of Tartar,5,RU
+842,8/14/2024,"Rum - Coconut, Malibu",4,CO
+843,9/29/2023,Soup V8 Roasted Red Pepper,6,CA
+844,12/19/2023,Table Cloth 91x91 Colour,2,US
+845,11/5/2023,Wine - Jackson Triggs Okonagan,3,US
+846,4/17/2024,Wine - Vouvray Cuvee Domaine,10,DZ
+847,8/30/2024,Bread Crumbs - Panko,7,US
+848,3/30/2024,"Potatoes - Instant, Mashed",2,PG
+849,7/26/2024,"Pork - Tenderloin, Fresh",4,IT
+850,12/1/2023,Halibut - Steaks,9,BR
+851,3/25/2024,"Potatoes - Purple, Organic",6,NZ
+852,2/28/2024,"Sauce - Apple, Unsweetened",9,CM
+853,12/18/2023,Cucumber - Pickling Ontario,7,US
+854,8/2/2024,"Wine - White, Colubia Cresh",8,CO
+855,9/18/2023,"Pasta - Canelloni, Single Serve",7,NZ
+856,3/4/2024,"Extract - Vanilla,artificial",8,CA
+857,4/14/2024,Wine - Jackson Triggs Okonagan,5,US
+858,11/26/2023,Quail - Jumbo Boneless,10,US
+859,2/16/2024,"Cookies - Oreo, 4 Pack",9,US
+860,6/8/2024,"Cup - 3.5oz, Foam",7,VN
+861,6/3/2024,"Mushroom - Enoki, Fresh",1,CO
+862,1/5/2024,Wine - Malbec Trapiche Reserve,2,IR
+863,3/1/2024,Appetizer - Assorted Box,9,IT
+864,3/10/2024,Wine - Pinot Noir Stoneleigh,5,BJ
+865,5/10/2024,"Mushroom - Porcini, Dry",1,CO
+866,6/13/2024,Yukon Jack,5,GB
+867,6/18/2024,Wine - Casablanca Valley,10,MM
+868,7/22/2024,Pepper Squash,8,AU
+869,3/24/2024,Wine - Baron De Rothschild,4,CD
+870,6/28/2024,Wine - Maipo Valle Cabernet,10,US
+871,9/29/2023,Cheese - Swiss Sliced,3,CN
+872,9/2/2024,Banana Turning,5,TD
+873,6/5/2024,"Napkin - Beverge, White 2 - Ply",4,PG
+874,11/16/2023,Wine - Fino Tio Pepe Gonzalez,9,US
+875,12/22/2023,Transfer Sheets,6,NI
+876,12/3/2023,Sobe - Liz Blizz,5,PG
+877,11/4/2023,"Pork - Sausage, Medium",3,CA
+878,11/16/2023,Island Oasis - Mango Daiquiri,4,US
+879,4/11/2024,Wine - Chateau Timberlay,2,MX
+880,4/29/2024,Cake Slab,4,PG
+881,8/10/2024,Muffin Batt - Blueberry Passion,4,CR
+882,7/13/2024,Beer - Upper Canada Light,8,US
+883,3/14/2024,Longos - Penne With Pesto,1,BW
+884,4/2/2024,Wine - Cave Springs Dry Riesling,3,MG
+885,9/26/2023,Garbage Bags - Black,10,KE
+886,8/20/2024,Pop Shoppe Cream Soda,7,CA
+887,4/23/2024,Nougat - Paste / Cream,8,BR
+888,10/31/2023,Bread - English Muffin,4,US
+889,12/8/2023,Sunflower Seed Raw,3,CN
+890,11/5/2023,Whmis - Spray Bottle Trigger,1,RU
+891,2/20/2024,Wine - Pinot Noir Pond Haddock,3,AU
+892,11/29/2023,Muffin Mix - Lemon Cranberry,7,US
+893,7/8/2024,Pate - Peppercorn,2,IT
+894,7/8/2024,"Pepper - Green, Chili",3,IQ
+895,11/14/2023,Ice Cream - Vanilla,6,PG
+896,8/17/2024,Vinegar - Sherry,4,US
+897,8/29/2024,Berry Brulee,2,GA
+898,5/14/2024,Coriander - Seed,6,JP
+899,12/12/2023,Syrup - Pancake,10,NA
+900,2/4/2024,Galliano,2,US
+901,12/26/2023,Rice - Aborio,4,US
+902,9/25/2023,"Cherries - Maraschino,jar",9,PG
+903,11/3/2023,Coffee - Egg Nog Capuccino,7,US
+904,7/14/2024,Cinnamon - Ground,4,BR
+905,7/11/2024,Tandoori Curry Paste,9,NC
+906,4/14/2024,Tea - Lemon Scented,3,KR
+907,2/16/2024,Jello - Assorted,7,PG
+908,8/13/2024,Vinegar - Champagne,3,IN
+909,10/19/2023,Coconut Milk - Unsweetened,2,ID
+910,1/15/2024,Goat - Whole Cut,7,GB
+911,12/25/2023,Stainless Steel Cleaner Vision,8,AU
+912,12/28/2023,Apples - Spartan,2,US
+913,11/16/2023,Table Cloth 62x114 White,2,US
+914,6/26/2024,Campari,10,US
+915,2/27/2024,Beef - Salted,10,TZ
+916,7/19/2024,"Lamb - Racks, Frenched",10,AU
+917,8/14/2024,Ginsing - Fresh,8,TR
+918,12/17/2023,Versatainer Nc - 9388,2,CN
+919,2/2/2024,"Soup - Campbells, Minestrone",5,NG
+920,7/29/2024,Chinese Foods - Chicken,6,ID
+921,12/9/2023,Flour - So Mix Cake White,3,US
+922,10/19/2023,"Tea - Darjeeling, Azzura",1,GT
+923,6/25/2024,Pear - Asian,10,AU
+924,5/13/2024,Island Oasis - Banana Daiquiri,4,US
+925,1/28/2024,Lid - 16 Oz And 32 Oz,9,BR
+926,9/22/2023,Sambuca Cream,7,CN
+927,8/6/2024,Soup Campbells Turkey Veg.,4,RU
+928,1/30/2024,Apple - Fuji,10,BR
+929,4/20/2024,"Onions - Dried, Chopped",6,NA
+930,11/26/2023,Pur Source,7,NP
+931,3/13/2024,Lobster - Tail 6 Oz,4,TD
+932,10/3/2023,Lid Coffeecup 12oz D9542b,1,PT
+933,12/20/2023,Longos - Grilled Chicken With,1,MR
+934,1/6/2024,Plate Foam Laminated 9in Blk,9,US
+935,5/29/2024,Crab - Meat,1,JP
+936,10/5/2023,Duck - Breast,6,EG
+937,2/26/2024,Rice Paper,10,US
+938,3/15/2024,Steam Pan Full Lid,6,US
+939,3/15/2024,"Zucchini - Mini, Green",4,US
+940,9/5/2024,Eggs - Extra Large,2,PR
+941,9/28/2023,Pork Loin Cutlets,4,CA
+942,11/28/2023,Cinnamon - Ground,5,CA
+943,12/1/2023,Bread Base - Gold Formel,6,RU
+944,8/9/2024,"Lettuce - Romaine, Heart",2,AU
+945,3/28/2024,"Coffee - Beans, Whole",3,US
+946,7/12/2024,Nantucket - Kiwi Berry Cktl.,5,NP
+947,10/5/2023,Sprouts - Baby Pea Tendrils,9,KI
+948,5/15/2024,Wasabi Paste,1,GH
+949,8/25/2024,"Lobster - Tail, 3 - 4 Oz",7,GY
+950,1/15/2024,Table Cloth 53x53 White,10,SO
+951,9/13/2023,"Leeks - Baby, White",3,CR
+952,9/2/2024,"Ham - Smoked, Bone - In",5,US
+953,10/5/2023,Grand Marnier,8,BZ
+954,5/31/2024,Chocolate - Liqueur Cups With Foil,10,NI
+955,9/13/2023,Coffee - Espresso,7,MX
+956,2/16/2024,Island Oasis - Lemonade,2,US
+957,7/6/2024,Thermometer Digital,5,BF
+958,8/3/2024,Muffin Mix - Blueberry,2,PG
+959,11/13/2023,Basil - Thai,10,RU
+960,8/23/2024,Chocolate - Unsweetened,3,BZ
+961,11/19/2023,Chocolate - Dark,5,US
+962,11/8/2023,Gherkin,7,US
+963,3/28/2024,Alize Sunset,9,AU
+964,11/14/2023,Pate Pans Yellow,6,DZ
+965,1/5/2024,Compound - Mocha,2,AU
+966,11/23/2023,Pecan Raisin - Tarts,5,LA
+967,11/16/2023,Cheese - Le Cheve Noir,3,VE
+968,6/16/2024,"Coke - Classic, 355 Ml",10,US
+969,4/17/2024,Bread - Corn Muffaletta,2,DE
+970,6/23/2024,Higashimaru Usukuchi Soy,4,PR
+971,7/4/2024,Horseradish - Prepared,7,PK
+972,12/1/2023,"Basil - Primerba, Paste",1,CA
+973,4/29/2024,Tuna - Salad Premix,8,BR
+974,9/25/2023,Flounder - Fresh,1,TR
+975,9/4/2024,"Pepper - Chipotle, Canned",4,US
+976,4/4/2024,Wine - Zonnebloem Pinotage,5,PF
+977,4/14/2024,Cheese - Gouda Smoked,5,ID
+978,3/13/2024,Ginger - Crystalized,7,IQ
+979,1/24/2024,Halibut - Steaks,10,US
+980,12/24/2023,Wine - Acient Coast Caberne,10,NP
+981,8/2/2024,Brandy Apricot,4,TR
+982,6/7/2024,Cheese - Camembert,7,NC
+983,12/25/2023,Crawfish,1,ZA
+984,9/21/2023,Cheese - Cambozola,6,AU
+985,8/25/2024,Pineapple - Regular,1,US
+986,12/25/2023,Wild Boar - Tenderloin,3,US
+987,2/12/2024,"Chicken - Base, Ultimate",6,US
+988,12/19/2023,Ice Cream Bar - Oreo Sandwich,4,NO
+989,2/14/2024,Wine - Chardonnay South,6,TR
+990,11/28/2023,Mushroom - White Button,7,AU
+991,12/8/2023,Glass Clear 7 Oz Xl,1,MA
+992,7/18/2024,"Chicken - Leg, Boneless",3,PG
+993,12/20/2023,"Crab - Claws, 26 - 30",7,PF
+994,5/26/2024,Liquid Aminios Acid - Braggs,7,RU
+995,3/22/2024,"Beef - Bones, Cut - Up",7,CA
+996,7/3/2024,Pumpkin - Seed,9,US
+997,12/12/2023,Ecolab - Ster Bac,8,US
+998,1/1/2024,Tarragon - Fresh,4,CA
+999,8/31/2024,"Tart Shells - Sweet, 2",9,FR
+1000,4/25/2024,Garlic - Elephant,3,DE
